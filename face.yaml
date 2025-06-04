@@ -1,6 +1,7 @@
-path: /kaggle/input/wider-dataset/WIDER_dataset  # dataset root dir
-train: /kaggle/input/wider-dataset/WIDER_dataset/image/train.txt  # train images 
-val: /kaggle/input/wider-dataset/WIDER_dataset/image/val.txt  # val images 
+path: /kaggle/input/wider-face  # dataset root dir
+train: /kaggle/input/wider-face/images/train.txt  # train images 
+val: /kaggle/input/wider-face/images/val.txt  # val images
+test: /kaggle/input/wider-face/images/test.txt # test images
 
 # Classes
 names:
