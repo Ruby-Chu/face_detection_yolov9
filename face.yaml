@@ -1,7 +1,7 @@
 path: /kaggle/input/wider-face  # dataset root dir
-train: ./images/train.txt  # train images 
-val: ./images/val.txt  # val images
-test: ./images/test.txt # test images
+train: ./train.txt  # train images 
+val: ./val.txt  # val images
+test: ./test.txt # test images
 
 # Classes
 names:
